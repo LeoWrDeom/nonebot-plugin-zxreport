@@ -105,7 +105,7 @@ def save(data: bytes):
 
 class Report:
     hitokoto_url = "https://v1.hitokoto.cn/?c=a"
-    alapi_url = "https://v2.alapi.cn/api/zaobao"
+    alapi_url = "https://v3.alapi.cn/api/zaobao"
     six_url = "https://60s.viki.moe/?v2=1"
     game_url = "https://www.4gamers.com.tw/rss/latest-news"
     bili_url = "https://s.search.bilibili.com/main/hotword"
